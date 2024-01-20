@@ -1,0 +1,28 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "solid-devtools": "^0.29.2",
+    "vite": "^5.0.11",
+    "vite-plugin-solid": "^2.8.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "flowbite": "^2.2.1",
+    "mapbox-gl": "^3.1.0",
+    "postcss": "^8.4.33",
+    "solid-js": "^1.8.11",
+    "solid-leva": "^0.0.2",
+    "solid-map-gl": "^1.10.3",
+    "solid-slider": "^1.3.17",
+    "tailwindcss": "^3.4.1"
+  }
+}
